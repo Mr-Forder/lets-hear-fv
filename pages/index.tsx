@@ -192,9 +192,9 @@ export default function Home() {
                   <p className="mt-4 text-gray-600 dark:text-gray-400">
                     Let's Hear is developed and maintained by the{" "}
                     <span className="text-teal-50 font-bold">
-                      International Hearing loop Association.
+                      International Hearing loop Manufacturers Association.
                     </span>{" "}
-                    We seeek to spread information and awareness about the
+                    We seek to spread information and awareness about the
                     emerging assistive hearing technologies that are changing
                     the lives of those with hearing loss.
                   </p>
